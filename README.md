@@ -1,2 +1,3 @@
 # book_2
-just for training 
+just for training
+writing sily thing
